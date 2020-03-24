@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a03df918-d2dd-4493-b40f-56ea2672ddea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FacebookProject" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FacebookProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTlFHOIbPWqPsEyM6J6aT98bzx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.TC_LoginTest_001.loginTest">
+    <configuration name="TC_LoginTest_001" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.facebook.testcases.TC_LoginTest_001&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TC_LoginTest_001.loginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.facebook.testcases.TC_LoginTest_001.loginTest&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TC_LoginTest_001.loginTest" />
+        <item itemvalue="Gradle.TC_LoginTest_001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a03df918-d2dd-4493-b40f-56ea2672ddea" name="Default Changelist" comment="" />
+      <created>1584870860246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584870860246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="160" key="#Project_Structure" timestamp="1584875874381">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="880" y="160" key="#Project_Structure/0.23.1680.943@0.23.1680.943" timestamp="1584875874381" />
+    <state x="998" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584887840342">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="998" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.943@0.23.1680.943" timestamp="1584887840342" />
+    <state width="1638" height="293" key="GridCell.Tab.0.bottom" timestamp="1584895722057">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="293" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584895722057" />
+    <state width="815" height="251" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1584893861462" />
+    <state width="1638" height="293" key="GridCell.Tab.0.center" timestamp="1584895722056">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="293" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584895722056" />
+    <state width="815" height="251" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1584893861461" />
+    <state width="1638" height="293" key="GridCell.Tab.0.left" timestamp="1584895722056">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="293" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584895722056" />
+    <state width="815" height="251" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1584893861461" />
+    <state width="1638" height="293" key="GridCell.Tab.0.right" timestamp="1584895722057">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="293" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584895722057" />
+    <state width="815" height="251" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1584893861462" />
+    <state x="349" y="164" key="SettingsEditor" timestamp="1584873859560">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1584873859560" />
+    <state x="519" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1584942085158">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="519" y="327" key="com.intellij.ide.util.TipDialog/0.23.1680.943@0.23.1680.943" timestamp="1584942085158" />
+    <state x="864" y="219" width="816" height="550" key="find.popup" timestamp="1584872159142">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="864" y="219" width="816" height="550" key="find.popup/0.23.1680.943@0.23.1680.943" timestamp="1584872159142" />
+  </component>
+</project>
